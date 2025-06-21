@@ -28,3 +28,21 @@ The game announces the winner or a tie via browser alerts.
 
 Click the "Restart" button to reset the game board.
 
+
+
+📚 Day 2 – Dictionary App using JavaScript
+This project is a simple Dictionary App built using HTML, CSS, and JavaScript. It allows users to search for the definition of any English word by using the Free Dictionary API. The app fetches real-time word meanings and displays them on the screen in a user-friendly layout.
+
+Part of the 30 Days JavaScript Challenge, this project focuses on working with fetch API, handling JSON data, and DOM manipulation.
+
+🔍 Features
+📖 Search any English word to get its definition.
+
+🌐 Uses dictionaryapi.dev for live word data.
+
+🧾 Displays the definition instantly on the screen.
+
+⚠️ Handles incorrect or unknown words gracefully with error messages.
+
+📱 Clean, minimal UI using basic HTML & CSS.
+
