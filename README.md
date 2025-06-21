@@ -30,6 +30,10 @@ Click the "Restart" button to reset the game board.
 
 
 
+
+
+
+
 📚 Day 2 – Dictionary App using JavaScript
 This project is a simple Dictionary App built using HTML, CSS, and JavaScript. It allows users to search for the definition of any English word by using the Free Dictionary API. The app fetches real-time word meanings and displays them on the screen in a user-friendly layout.
 
