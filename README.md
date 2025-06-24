@@ -50,3 +50,13 @@ Part of the 30 Days JavaScript Challenge, this project focuses on working with f
 
 📱 Clean, minimal UI using basic HTML & CSS.
 
+
+
+📅 Day 3 – Analog Clock 🕒
+Simple analog clock banane ka JavaScript project.
+
+💡 Project Purpose
+Real-time clock dikhaana using JavaScript.
+
+DOM ko manipulate karke clock hands ko rotate karna time ke according.
+
